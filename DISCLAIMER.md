@@ -1,0 +1,1 @@
+Este projeto é uma demonstração educacional/profissional para portfólio. Dados sensíveis, bases reais, materiais institucionais e código proprietário não foram incluídos. Quando houver inspiração em projetos públicos, as fontes são citadas.
